@@ -36,4 +36,4 @@ if __name__ == "__main__":
     cscSensor = CSCSensor()
 
     processor = Processor("data/output/wheel/1.json")
-    processor.schedule_tasks(cscSensor.parseCSCData)
+    processor.schedule_tasks(cscSensor.parse)
