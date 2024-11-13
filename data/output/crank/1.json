@@ -1,0 +1,486 @@
+[
+    {
+        "timestamp": 0,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 1.033,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 2.021,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 2.997,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 3.971,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 5.025,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 6.037,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 6.971,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 8.101,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 8.999,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 10.012,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 11.022,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 12.0,
+        "value": "02-83-45-9B-F8"
+    },
+    {
+        "timestamp": 13.054,
+        "value": "02-84-45-C3-FD"
+    },
+    {
+        "timestamp": 14.1,
+        "value": "02-86-45-4A-06"
+    },
+    {
+        "timestamp": 14.997,
+        "value": "02-87-45-1E-0A"
+    },
+    {
+        "timestamp": 15.985,
+        "value": "02-89-45-4F-10"
+    },
+    {
+        "timestamp": 17.022,
+        "value": "02-8A-45-24-13"
+    },
+    {
+        "timestamp": 18.002,
+        "value": "02-8C-45-79-18"
+    },
+    {
+        "timestamp": 18.974,
+        "value": "02-8D-45-08-1B"
+    },
+    {
+        "timestamp": 20.025,
+        "value": "02-8F-45-08-20"
+    },
+    {
+        "timestamp": 21.002,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 22.05,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 23.028,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 24.001,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 25.049,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 26.022,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 26.999,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 28.126,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 29.025,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 30.077,
+        "value": "02-90-45-83-22"
+    },
+    {
+        "timestamp": 31.051,
+        "value": "02-91-45-1B-26"
+    },
+    {
+        "timestamp": 32.063,
+        "value": "02-93-45-B1-2C"
+    },
+    {
+        "timestamp": 33.15,
+        "value": "02-94-45-D6-2F"
+    },
+    {
+        "timestamp": 34.05,
+        "value": "02-96-45-A8-35"
+    },
+    {
+        "timestamp": 35.026,
+        "value": "02-97-45-78-38"
+    },
+    {
+        "timestamp": 36.001,
+        "value": "02-99-45-FF-3D"
+    },
+    {
+        "timestamp": 37.049,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 38.023,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 39.074,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 40.049,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 41.121,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 42.226,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 43.053,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 44.023,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 45.183,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 46.052,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 47.027,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 48.152,
+        "value": "02-9A-45-B6-40"
+    },
+    {
+        "timestamp": 49.128,
+        "value": "02-9B-45-CE-46"
+    },
+    {
+        "timestamp": 50.092,
+        "value": "02-9C-45-BA-4B"
+    },
+    {
+        "timestamp": 51.075,
+        "value": "02-9D-45-FF-4F"
+    },
+    {
+        "timestamp": 52.052,
+        "value": "02-9F-45-DF-56"
+    },
+    {
+        "timestamp": 53.098,
+        "value": "02-A0-45-91-59"
+    },
+    {
+        "timestamp": 54.108,
+        "value": "02-A2-45-AF-5E"
+    },
+    {
+        "timestamp": 55.09,
+        "value": "02-A3-45-3E-61"
+    },
+    {
+        "timestamp": 56.027,
+        "value": "02-A4-45-D2-63"
+    },
+    {
+        "timestamp": 57.074,
+        "value": "02-A6-45-9F-69"
+    },
+    {
+        "timestamp": 58.124,
+        "value": "02-A8-45-62-6F"
+    },
+    {
+        "timestamp": 59.099,
+        "value": "02-AA-45-44-74"
+    },
+    {
+        "timestamp": 60.073,
+        "value": "02-AB-45-9C-76"
+    },
+    {
+        "timestamp": 61.124,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 62.025,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 63.078,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 64.049,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 65.099,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 66.074,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 67.052,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 68.174,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 69.074,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 70.049,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 71.099,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 72.087,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 73.125,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 74.099,
+        "value": "02-AC-45-58-79"
+    },
+    {
+        "timestamp": 75.074,
+        "value": "02-AD-45-E4-7E"
+    },
+    {
+        "timestamp": 76.051,
+        "value": "02-AD-45-E4-7E"
+    },
+    {
+        "timestamp": 77.133,
+        "value": "02-AE-45-F8-83"
+    },
+    {
+        "timestamp": 78.075,
+        "value": "02-B0-45-4C-8D"
+    },
+    {
+        "timestamp": 79.05,
+        "value": "02-B1-45-57-91"
+    },
+    {
+        "timestamp": 80.111,
+        "value": "02-B2-45-1C-95"
+    },
+    {
+        "timestamp": 81.118,
+        "value": "02-B3-45-9B-98"
+    },
+    {
+        "timestamp": 82.094,
+        "value": "02-B5-45-12-9F"
+    },
+    {
+        "timestamp": 83.1,
+        "value": "02-B6-45-14-A2"
+    },
+    {
+        "timestamp": 84.077,
+        "value": "02-B7-45-02-A5"
+    },
+    {
+        "timestamp": 85.133,
+        "value": "02-B9-45-FC-AA"
+    },
+    {
+        "timestamp": 86.1,
+        "value": "02-BA-45-08-AE"
+    },
+    {
+        "timestamp": 87.3,
+        "value": "02-BB-45-37-B1"
+    },
+    {
+        "timestamp": 88.202,
+        "value": "02-BC-45-75-B4"
+    },
+    {
+        "timestamp": 89.11,
+        "value": "02-BD-45-E0-B7"
+    },
+    {
+        "timestamp": 90.076,
+        "value": "02-BD-45-E0-B7"
+    },
+    {
+        "timestamp": 91.127,
+        "value": "02-BE-45-3B-BC"
+    },
+    {
+        "timestamp": 92.105,
+        "value": "02-BF-45-E1-C0"
+    },
+    {
+        "timestamp": 93.15,
+        "value": "02-C1-45-55-CA"
+    },
+    {
+        "timestamp": 94.166,
+        "value": "02-C2-45-1F-CE"
+    },
+    {
+        "timestamp": 95.1,
+        "value": "02-C2-45-1F-CE"
+    },
+    {
+        "timestamp": 96.077,
+        "value": "02-C3-45-DE-D2"
+    },
+    {
+        "timestamp": 97.125,
+        "value": "02-C4-45-98-D7"
+    },
+    {
+        "timestamp": 98.105,
+        "value": "02-C5-45-4D-DC"
+    },
+    {
+        "timestamp": 99.081,
+        "value": "02-C6-45-16-E1"
+    },
+    {
+        "timestamp": 100.125,
+        "value": "02-C7-45-12-E5"
+    },
+    {
+        "timestamp": 101.105,
+        "value": "02-C7-45-12-E5"
+    },
+    {
+        "timestamp": 102.076,
+        "value": "02-C9-45-AA-ED"
+    },
+    {
+        "timestamp": 103.162,
+        "value": "02-CA-45-00-F2"
+    },
+    {
+        "timestamp": 104.102,
+        "value": "02-CB-45-E8-F5"
+    },
+    {
+        "timestamp": 105.075,
+        "value": "02-CB-45-E8-F5"
+    },
+    {
+        "timestamp": 106.125,
+        "value": "02-CC-45-A8-F9"
+    },
+    {
+        "timestamp": 107.101,
+        "value": "02-CC-45-A8-F9"
+    },
+    {
+        "timestamp": 108.118,
+        "value": "02-CC-45-A8-F9"
+    },
+    {
+        "timestamp": 109.126,
+        "value": "02-CD-45-F8-FE"
+    },
+    {
+        "timestamp": 110.104,
+        "value": "02-CE-45-2A-04"
+    },
+    {
+        "timestamp": 111.079,
+        "value": "02-CF-45-3E-09"
+    },
+    {
+        "timestamp": 112.125,
+        "value": "02-D0-45-2A-0E"
+    },
+    {
+        "timestamp": 113.135,
+        "value": "02-D1-45-F3-12"
+    },
+    {
+        "timestamp": 114.151,
+        "value": "02-D1-45-F3-12"
+    },
+    {
+        "timestamp": 115.13,
+        "value": "02-D1-45-F3-12"
+    },
+    {
+        "timestamp": 116.104,
+        "value": "02-D1-45-F3-12"
+    },
+    {
+        "timestamp": 117.151,
+        "value": "02-D1-45-F3-12"
+    },
+    {
+        "timestamp": 118.126,
+        "value": "02-D1-45-F3-12"
+    },
+    {
+        "timestamp": 119.104,
+        "value": "02-D1-45-F3-12"
+    },
+    {
+        "timestamp": 120.263,
+        "value": "02-D1-45-F3-12"
+    }
+]

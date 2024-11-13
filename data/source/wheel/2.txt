@@ -1,0 +1,1655 @@
+nRF Connect, 2024-11-13
+39595-241 (C6:8F:58:C8:FA:3D)
+V	16:56:03.544	Enabling notifications for 00002a5b-0000-1000-8000-00805f9b34fb
+D	16:56:03.544	gatt.setCharacteristicNotification(00002a5b-0000-1000-8000-00805f9b34fb, true)
+D	16:56:03.548	gatt.writeDescriptor(00002902-0000-1000-8000-00805f9b34fb, value=0x0100)
+I	16:56:03.659	Data written to descr. 00002902-0000-1000-8000-00805f9b34fb, value: (0x) 01-00
+A	16:56:03.660	"Notifications enabled" sent
+V	16:56:03.665	Notifications enabled for 00002a5b-0000-1000-8000-00805f9b34fb
+I	16:56:03.892	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:03.892	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:04.038	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:04.038	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:04.261	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:04.261	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:04.563	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:04.563	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:04.790	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:04.790	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:05.013	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:05.013	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:05.359	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:05.359	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:05.536	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:05.536	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:05.762	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:05.762	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:06.174	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:06.174	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:06.284	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:06.284	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:06.509	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:06.509	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:06.734	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:06.734	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:07.074	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:07.074	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:07.259	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:07.259	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:07.485	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:07.485	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:07.824	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:07.824	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:08.012	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:08.012	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:08.238	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:08.238	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:08.581	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:08.581	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:08.764	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:08.764	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:08.989	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:08.989	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:09.328	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:09.328	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:09.515	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:09.515	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:09.737	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:09.737	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:09.960	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:09.960	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:10.301	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:10.301	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:10.485	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:10.486	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:10.710	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:10.710	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:11.008	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:11.008	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:11.238	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:11.238	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:11.462	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:11.462	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:11.762	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:11.762	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:12.100	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:12.100	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:12.211	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:12.211	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:12.435	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:12.435	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:12.776	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:12.776	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:12.961	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:12.961	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:13.185	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:13.185	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:13.526	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:13.526	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:13.711	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:13.711	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:13.934	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:13.935	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:14.275	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:14.275	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:14.460	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:14.460	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:14.684	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:14.684	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:14.912	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:14.912	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:15.212	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:15.212	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:15.435	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:15.435	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:15.735	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:15.735	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:15.961	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:15.961	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:16.186	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:16.186	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:16.410	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:16.410	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:16.784	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:16.784	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:16.936	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:16.936	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:17.278	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:17.278	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:17.461	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:17.461	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:17.687	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:17.687	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:18.101	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:18.101	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:18.135	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:18.135	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:18.476	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:18.476	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:18.661	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:18.661	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:18.888	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:18.888	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:19.226	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:19.226	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:19.412	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:19.412	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:19.636	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:19.636	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:19.975	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:19.975	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:20.160	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:20.160	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:20.384	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:20.384	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:20.610	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:20.610	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:20.913	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:20.913	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:21.136	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:21.136	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:21.360	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:21.360	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:21.704	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:21.704	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:21.884	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:21.884	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:22.225	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:22.225	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:22.409	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:22.410	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:22.635	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:22.635	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:22.860	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:22.860	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:23.085	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:23.085	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:23.434	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:23.434	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:23.615	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:23.615	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:23.837	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:23.837	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:24.183	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:24.183	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:24.372	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:24.372	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:24.592	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:24.592	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:24.888	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:24.888	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:25.115	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:25.115	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:25.340	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:25.340	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:25.682	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:25.682	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:25.861	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-06-B1-04-00-15-81
+A	16:56:25.862	"Wheel rev: 307462,
+Last wheel event time: 33045 ms" received
+I	16:56:26.091	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-07-B1-04-00-1E-83
+A	16:56:26.091	"Wheel rev: 307463,
+Last wheel event time: 33566 ms" received
+I	16:56:26.313	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-07-B1-04-00-1E-83
+A	16:56:26.314	"Wheel rev: 307463,
+Last wheel event time: 33566 ms" received
+I	16:56:26.659	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-08-B1-04-00-27-85
+A	16:56:26.659	"Wheel rev: 307464,
+Last wheel event time: 34087 ms" received
+I	16:56:26.839	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-08-B1-04-00-27-85
+A	16:56:26.839	"Wheel rev: 307464,
+Last wheel event time: 34087 ms" received
+I	16:56:27.065	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-09-B1-04-00-12-87
+A	16:56:27.065	"Wheel rev: 307465,
+Last wheel event time: 34578 ms" received
+I	16:56:27.481	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-09-B1-04-00-12-87
+A	16:56:27.481	"Wheel rev: 307465,
+Last wheel event time: 34578 ms" received
+I	16:56:27.588	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-0A-B1-04-00-ED-88
+A	16:56:27.588	"Wheel rev: 307466,
+Last wheel event time: 35053 ms" received
+I	16:56:27.810	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-0B-B1-04-00-BF-8A
+A	16:56:27.810	"Wheel rev: 307467,
+Last wheel event time: 35519 ms" received
+I	16:56:28.155	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-0B-B1-04-00-BF-8A
+A	16:56:28.155	"Wheel rev: 307467,
+Last wheel event time: 35519 ms" received
+I	16:56:28.343	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-0C-B1-04-00-74-8C
+A	16:56:28.343	"Wheel rev: 307468,
+Last wheel event time: 35956 ms" received
+I	16:56:28.564	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-0D-B1-04-00-07-8E
+A	16:56:28.564	"Wheel rev: 307469,
+Last wheel event time: 36359 ms" received
+I	16:56:28.786	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-0E-B1-04-00-6D-8F
+A	16:56:28.786	"Wheel rev: 307470,
+Last wheel event time: 36717 ms" received
+I	16:56:29.134	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-0F-B1-04-00-B8-90
+A	16:56:29.134	"Wheel rev: 307471,
+Last wheel event time: 37048 ms" received
+I	16:56:29.311	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-10-B1-04-00-EF-91
+A	16:56:29.311	"Wheel rev: 307472,
+Last wheel event time: 37359 ms" received
+I	16:56:29.541	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-11-B1-04-00-3A-93
+A	16:56:29.541	"Wheel rev: 307473,
+Last wheel event time: 37690 ms" received
+I	16:56:29.838	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-12-B1-04-00-71-94
+A	16:56:29.838	"Wheel rev: 307474,
+Last wheel event time: 38001 ms" received
+I	16:56:30.176	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-13-B1-04-00-99-95
+A	16:56:30.176	"Wheel rev: 307475,
+Last wheel event time: 38297 ms" received
+I	16:56:30.288	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-14-B1-04-00-B4-96
+A	16:56:30.288	"Wheel rev: 307476,
+Last wheel event time: 38580 ms" received
+I	16:56:30.634	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-15-B1-04-00-C5-97
+A	16:56:30.634	"Wheel rev: 307477,
+Last wheel event time: 38853 ms" received
+I	16:56:30.810	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-16-B1-04-00-D2-98
+A	16:56:30.810	"Wheel rev: 307478,
+Last wheel event time: 39122 ms" received
+I	16:56:31.158	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-17-B1-04-00-DB-99
+A	16:56:31.158	"Wheel rev: 307479,
+Last wheel event time: 39387 ms" received
+I	16:56:31.339	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-18-B1-04-00-DE-9A
+A	16:56:31.339	"Wheel rev: 307480,
+Last wheel event time: 39646 ms" received
+I	16:56:31.564	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-19-B1-04-00-DE-9B
+A	16:56:31.564	"Wheel rev: 307481,
+Last wheel event time: 39902 ms" received
+I	16:56:31.789	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-1A-B1-04-00-DA-9C
+A	16:56:31.789	"Wheel rev: 307482,
+Last wheel event time: 40154 ms" received
+I	16:56:32.010	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-1B-B1-04-00-D2-9D
+A	16:56:32.010	"Wheel rev: 307483,
+Last wheel event time: 40402 ms" received
+I	16:56:32.351	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-1C-B1-04-00-C8-9E
+A	16:56:32.351	"Wheel rev: 307484,
+Last wheel event time: 40648 ms" received
+I	16:56:32.538	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-1D-B1-04-00-BA-9F
+A	16:56:32.538	"Wheel rev: 307485,
+Last wheel event time: 40890 ms" received
+I	16:56:32.763	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-1E-B1-04-00-A9-A0
+A	16:56:32.763	"Wheel rev: 307486,
+Last wheel event time: 41129 ms" received
+I	16:56:33.109	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-1F-B1-04-00-96-A1
+A	16:56:33.109	"Wheel rev: 307487,
+Last wheel event time: 41366 ms" received
+I	16:56:33.288	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-21-B1-04-00-69-A3
+A	16:56:33.288	"Wheel rev: 307489,
+Last wheel event time: 41833 ms" received
+I	16:56:33.514	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-22-B1-04-00-4F-A4
+A	16:56:33.514	"Wheel rev: 307490,
+Last wheel event time: 42063 ms" received
+I	16:56:33.890	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-23-B1-04-00-33-A5
+A	16:56:33.890	"Wheel rev: 307491,
+Last wheel event time: 42291 ms" received
+I	16:56:34.038	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-24-B1-04-00-16-A6
+A	16:56:34.038	"Wheel rev: 307492,
+Last wheel event time: 42518 ms" received
+I	16:56:34.264	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-25-B1-04-00-F8-A6
+A	16:56:34.264	"Wheel rev: 307493,
+Last wheel event time: 42744 ms" received
+I	16:56:34.490	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-26-B1-04-00-DA-A7
+A	16:56:34.490	"Wheel rev: 307494,
+Last wheel event time: 42970 ms" received
+I	16:56:34.789	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-27-B1-04-00-BA-A8
+A	16:56:34.789	"Wheel rev: 307495,
+Last wheel event time: 43194 ms" received
+I	16:56:35.014	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-29-B1-04-00-73-AA
+A	16:56:35.014	"Wheel rev: 307497,
+Last wheel event time: 43635 ms" received
+I	16:56:35.241	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-2A-B1-04-00-4E-AB
+A	16:56:35.241	"Wheel rev: 307498,
+Last wheel event time: 43854 ms" received
+I	16:56:35.583	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-2B-B1-04-00-27-AC
+A	16:56:35.583	"Wheel rev: 307499,
+Last wheel event time: 44071 ms" received
+I	16:56:35.836	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-2C-B1-04-00-00-AD
+A	16:56:35.836	"Wheel rev: 307500,
+Last wheel event time: 44288 ms" received
+I	16:56:35.986	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-2D-B1-04-00-D8-AD
+A	16:56:35.986	"Wheel rev: 307501,
+Last wheel event time: 44504 ms" received
+I	16:56:36.336	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-2E-B1-04-00-B1-AE
+A	16:56:36.336	"Wheel rev: 307502,
+Last wheel event time: 44721 ms" received
+I	16:56:36.510	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-30-B1-04-00-65-B0
+A	16:56:36.510	"Wheel rev: 307504,
+Last wheel event time: 45157 ms" received
+I	16:56:36.734	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:36.734	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:36.964	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:36.964	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:37.311	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:37.311	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:37.490	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:37.490	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:37.720	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:37.720	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:38.055	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:38.055	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:38.358	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:38.358	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:38.463	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:38.463	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:38.760	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:38.760	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:38.992	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:38.993	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:39.214	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:39.214	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:39.558	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:39.558	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:39.739	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:39.739	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:39.965	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:39.965	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:40.190	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:40.190	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:40.530	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:40.530	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:40.787	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:40.787	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:40.937	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:40.937	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:41.357	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:41.357	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:41.465	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:41.465	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:41.687	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:41.687	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:42.027	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:42.027	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:42.218	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:42.218	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:42.441	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:42.441	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:42.667	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:42.667	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:43.007	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:43.007	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:43.191	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:43.191	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:43.416	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-31-B1-04-00-42-B1
+A	16:56:43.416	"Wheel rev: 307505,
+Last wheel event time: 45378 ms" received
+I	16:56:43.711	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-32-B1-04-00-1C-B2
+A	16:56:43.711	"Wheel rev: 307506,
+Last wheel event time: 45596 ms" received
+I	16:56:43.937	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-32-B1-04-00-1C-B2
+A	16:56:43.937	"Wheel rev: 307506,
+Last wheel event time: 45596 ms" received
+I	16:56:44.164	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-32-B1-04-00-1C-B2
+A	16:56:44.164	"Wheel rev: 307506,
+Last wheel event time: 45596 ms" received
+I	16:56:44.616	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-33-B1-04-00-F9-B2
+A	16:56:44.616	"Wheel rev: 307507,
+Last wheel event time: 45817 ms" received
+I	16:56:44.688	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-33-B1-04-00-F9-B2
+A	16:56:44.688	"Wheel rev: 307507,
+Last wheel event time: 45817 ms" received
+I	16:56:44.914	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-34-B1-04-00-39-B4
+A	16:56:44.914	"Wheel rev: 307508,
+Last wheel event time: 46137 ms" received
+I	16:56:45.254	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-34-B1-04-00-39-B4
+A	16:56:45.255	"Wheel rev: 307508,
+Last wheel event time: 46137 ms" received
+I	16:56:45.438	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-35-B1-04-00-BE-B5
+A	16:56:45.438	"Wheel rev: 307509,
+Last wheel event time: 46526 ms" received
+I	16:56:45.667	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-35-B1-04-00-BE-B5
+A	16:56:45.667	"Wheel rev: 307509,
+Last wheel event time: 46526 ms" received
+I	16:56:45.889	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-36-B1-04-00-86-B7
+A	16:56:45.889	"Wheel rev: 307510,
+Last wheel event time: 46982 ms" received
+I	16:56:46.229	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-37-B1-04-00-4D-B9
+A	16:56:46.229	"Wheel rev: 307511,
+Last wheel event time: 47437 ms" received
+I	16:56:46.414	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-37-B1-04-00-4D-B9
+A	16:56:46.414	"Wheel rev: 307511,
+Last wheel event time: 47437 ms" received
+I	16:56:46.642	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-38-B1-04-00-15-BB
+A	16:56:46.642	"Wheel rev: 307512,
+Last wheel event time: 47893 ms" received
+I	16:56:46.943	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-39-B1-04-00-B3-BC
+A	16:56:46.943	"Wheel rev: 307513,
+Last wheel event time: 48307 ms" received
+I	16:56:47.172	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-3A-B1-04-00-3E-BE
+A	16:56:47.172	"Wheel rev: 307514,
+Last wheel event time: 48702 ms" received
+I	16:56:47.391	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-3A-B1-04-00-3E-BE
+A	16:56:47.391	"Wheel rev: 307514,
+Last wheel event time: 48702 ms" received
+I	16:56:47.734	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-3B-B1-04-00-DC-BF
+A	16:56:47.734	"Wheel rev: 307515,
+Last wheel event time: 49116 ms" received
+I	16:56:48.037	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-3C-B1-04-00-67-C1
+A	16:56:48.037	"Wheel rev: 307516,
+Last wheel event time: 49511 ms" received
+I	16:56:48.139	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-3D-B1-04-00-DE-C2
+A	16:56:48.139	"Wheel rev: 307517,
+Last wheel event time: 49886 ms" received
+I	16:56:48.364	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-3D-B1-04-00-DE-C2
+A	16:56:48.364	"Wheel rev: 307517,
+Last wheel event time: 49886 ms" received
+I	16:56:48.776	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-3E-B1-04-00-45-C4
+A	16:56:48.776	"Wheel rev: 307518,
+Last wheel event time: 50245 ms" received
+I	16:56:48.889	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-3F-B1-04-00-9E-C5
+A	16:56:48.889	"Wheel rev: 307519,
+Last wheel event time: 50590 ms" received
+I	16:56:49.115	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-40-B1-04-00-EF-C6
+A	16:56:49.115	"Wheel rev: 307520,
+Last wheel event time: 50927 ms" received
+I	16:56:49.455	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-40-B1-04-00-EF-C6
+A	16:56:49.455	"Wheel rev: 307520,
+Last wheel event time: 50927 ms" received
+I	16:56:49.643	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-41-B1-04-00-3A-C8
+A	16:56:49.643	"Wheel rev: 307521,
+Last wheel event time: 51258 ms" received
+I	16:56:49.862	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-42-B1-04-00-82-C9
+A	16:56:49.862	"Wheel rev: 307522,
+Last wheel event time: 51586 ms" received
+I	16:56:50.210	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-43-B1-04-00-C7-CA
+A	16:56:50.210	"Wheel rev: 307523,
+Last wheel event time: 51911 ms" received
+I	16:56:50.390	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-44-B1-04-00-0D-CC
+A	16:56:50.390	"Wheel rev: 307524,
+Last wheel event time: 52237 ms" received
+I	16:56:50.615	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-44-B1-04-00-0D-CC
+A	16:56:50.615	"Wheel rev: 307524,
+Last wheel event time: 52237 ms" received
+I	16:56:50.845	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-45-B1-04-00-51-CD
+A	16:56:50.845	"Wheel rev: 307525,
+Last wheel event time: 52561 ms" received
+I	16:56:51.184	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-46-B1-04-00-96-CE
+A	16:56:51.184	"Wheel rev: 307526,
+Last wheel event time: 52886 ms" received
+I	16:56:51.484	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-47-B1-04-00-DB-CF
+A	16:56:51.484	"Wheel rev: 307527,
+Last wheel event time: 53211 ms" received
+I	16:56:51.589	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-48-B1-04-00-1C-D1
+A	16:56:51.589	"Wheel rev: 307528,
+Last wheel event time: 53532 ms" received
+I	16:56:51.889	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-48-B1-04-00-1C-D1
+A	16:56:51.889	"Wheel rev: 307528,
+Last wheel event time: 53532 ms" received
+I	16:56:52.112	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-49-B1-04-00-5D-D2
+A	16:56:52.112	"Wheel rev: 307529,
+Last wheel event time: 53853 ms" received
+I	16:56:52.340	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4A-B1-04-00-9B-D3
+A	16:56:52.340	"Wheel rev: 307530,
+Last wheel event time: 54171 ms" received
+I	16:56:52.677	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:52.677	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:52.863	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:52.863	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:53.092	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:53.092	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:53.315	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:53.315	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:53.659	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:53.659	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:53.838	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:53.838	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:54.067	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:54.067	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:54.407	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:54.407	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:54.701	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:54.701	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:54.815	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:54.815	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:55.231	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:55.231	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:55.338	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:55.338	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:55.564	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:55.564	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:55.864	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:55.864	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:56.092	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:56.092	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:56.318	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:56.318	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:56.541	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:56.541	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:56.911	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:56.911	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:57.064	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:57.064	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:57.290	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:57.290	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:57.634	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:57.634	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:57.811	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:57.811	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:58.040	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:58.040	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:58.382	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:58.382	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:58.565	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:58.565	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:58.788	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:58.788	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:59.015	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:59.015	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:59.433	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:59.433	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:59.539	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:59.539	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:56:59.761	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:56:59.761	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:00.103	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:00.103	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:00.286	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:00.286	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:00.511	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:00.511	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:00.852	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:00.852	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:01.037	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:01.038	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:01.385	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:01.385	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:01.561	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:01.561	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:01.788	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:01.788	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:02.012	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:02.012	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:02.241	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:02.241	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:02.577	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:02.577	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:02.762	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:02.762	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:02.989	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:02.989	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:03.339	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:03.339	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:03.516	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:03.516	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:03.736	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:03.736	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:04.048	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4B-B1-04-00-EE-D4
+A	16:57:04.048	"Wheel rev: 307531,
+Last wheel event time: 54510 ms" received
+I	16:57:04.268	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4C-B1-04-00-2B-D6
+A	16:57:04.268	"Wheel rev: 307532,
+Last wheel event time: 54827 ms" received
+I	16:57:04.496	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4C-B1-04-00-2B-D6
+A	16:57:04.496	"Wheel rev: 307532,
+Last wheel event time: 54827 ms" received
+I	16:57:04.723	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4D-B1-04-00-7B-D7
+A	16:57:04.723	"Wheel rev: 307533,
+Last wheel event time: 55163 ms" received
+I	16:57:05.015	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4E-B1-04-00-F0-D8
+A	16:57:05.015	"Wheel rev: 307534,
+Last wheel event time: 55536 ms" received
+I	16:57:05.244	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4E-B1-04-00-F0-D8
+A	16:57:05.244	"Wheel rev: 307534,
+Last wheel event time: 55536 ms" received
+I	16:57:05.466	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-4F-B1-04-00-80-DA
+A	16:57:05.466	"Wheel rev: 307535,
+Last wheel event time: 55936 ms" received
+I	16:57:05.763	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-50-B1-04-00-0F-DC
+A	16:57:05.763	"Wheel rev: 307536,
+Last wheel event time: 56335 ms" received
+I	16:57:05.989	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-50-B1-04-00-0F-DC
+A	16:57:05.989	"Wheel rev: 307536,
+Last wheel event time: 56335 ms" received
+I	16:57:06.214	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-51-B1-04-00-9E-DD
+A	16:57:06.214	"Wheel rev: 307537,
+Last wheel event time: 56734 ms" received
+I	16:57:06.556	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-52-B1-04-00-25-DF
+A	16:57:06.556	"Wheel rev: 307538,
+Last wheel event time: 57125 ms" received
+I	16:57:06.737	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-53-B1-04-00-94-E0
+A	16:57:06.737	"Wheel rev: 307539,
+Last wheel event time: 57492 ms" received
+I	16:57:06.964	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-53-B1-04-00-94-E0
+A	16:57:06.964	"Wheel rev: 307539,
+Last wheel event time: 57492 ms" received
+I	16:57:07.190	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-54-B1-04-00-E9-E1
+A	16:57:07.190	"Wheel rev: 307540,
+Last wheel event time: 57833 ms" received
+I	16:57:07.531	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-55-B1-04-00-58-E3
+A	16:57:07.531	"Wheel rev: 307541,
+Last wheel event time: 58200 ms" received
+I	16:57:07.717	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-56-B1-04-00-AD-E4
+A	16:57:07.717	"Wheel rev: 307542,
+Last wheel event time: 58541 ms" received
+I	16:57:07.941	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-57-B1-04-00-F5-E5
+A	16:57:07.941	"Wheel rev: 307543,
+Last wheel event time: 58869 ms" received
+I	16:57:08.285	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-58-B1-04-00-32-E7
+A	16:57:08.285	"Wheel rev: 307544,
+Last wheel event time: 59186 ms" received
+I	16:57:08.467	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-59-B1-04-00-67-E8
+A	16:57:08.467	"Wheel rev: 307545,
+Last wheel event time: 59495 ms" received
+I	16:57:08.689	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-59-B1-04-00-67-E8
+A	16:57:08.689	"Wheel rev: 307545,
+Last wheel event time: 59495 ms" received
+I	16:57:08.992	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-5A-B1-04-00-95-E9
+A	16:57:08.992	"Wheel rev: 307546,
+Last wheel event time: 59797 ms" received
+I	16:57:09.216	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-5B-B1-04-00-BF-EA
+A	16:57:09.216	"Wheel rev: 307547,
+Last wheel event time: 60095 ms" received
+I	16:57:09.443	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-5C-B1-04-00-E7-EB
+A	16:57:09.443	"Wheel rev: 307548,
+Last wheel event time: 60391 ms" received
+I	16:57:09.779	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-5D-B1-04-00-0E-ED
+A	16:57:09.779	"Wheel rev: 307549,
+Last wheel event time: 60686 ms" received
+I	16:57:09.963	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-5E-B1-04-00-34-EE
+A	16:57:09.963	"Wheel rev: 307550,
+Last wheel event time: 60980 ms" received
+I	16:57:10.192	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-5F-B1-04-00-5A-EF
+A	16:57:10.192	"Wheel rev: 307551,
+Last wheel event time: 61274 ms" received
+I	16:57:10.415	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-5F-B1-04-00-5A-EF
+A	16:57:10.415	"Wheel rev: 307551,
+Last wheel event time: 61274 ms" received
+I	16:57:10.760	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-60-B1-04-00-81-F0
+A	16:57:10.760	"Wheel rev: 307552,
+Last wheel event time: 61569 ms" received
+I	16:57:10.940	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-61-B1-04-00-A8-F1
+A	16:57:10.940	"Wheel rev: 307553,
+Last wheel event time: 61864 ms" received
+I	16:57:11.167	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-62-B1-04-00-D3-F2
+A	16:57:11.167	"Wheel rev: 307554,
+Last wheel event time: 62163 ms" received
+I	16:57:11.510	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-63-B1-04-00-02-F4
+A	16:57:11.510	"Wheel rev: 307555,
+Last wheel event time: 62466 ms" received
+I	16:57:11.692	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-64-B1-04-00-33-F5
+A	16:57:11.692	"Wheel rev: 307556,
+Last wheel event time: 62771 ms" received
+I	16:57:11.914	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-64-B1-04-00-33-F5
+A	16:57:11.914	"Wheel rev: 307556,
+Last wheel event time: 62771 ms" received
+I	16:57:12.335	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-65-B1-04-00-65-F6
+A	16:57:12.335	"Wheel rev: 307557,
+Last wheel event time: 63077 ms" received
+I	16:57:12.440	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-66-B1-04-00-97-F7
+A	16:57:12.440	"Wheel rev: 307558,
+Last wheel event time: 63383 ms" received
+I	16:57:12.665	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-67-B1-04-00-C9-F8
+A	16:57:12.665	"Wheel rev: 307559,
+Last wheel event time: 63689 ms" received
+I	16:57:12.888	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-68-B1-04-00-FB-F9
+A	16:57:12.888	"Wheel rev: 307560,
+Last wheel event time: 63995 ms" received
+I	16:57:13.235	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-69-B1-04-00-2E-FB
+A	16:57:13.235	"Wheel rev: 307561,
+Last wheel event time: 64302 ms" received
+I	16:57:13.414	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-6A-B1-04-00-5D-FC
+A	16:57:13.414	"Wheel rev: 307562,
+Last wheel event time: 64605 ms" received
+I	16:57:13.642	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-6B-B1-04-00-84-FD
+A	16:57:13.642	"Wheel rev: 307563,
+Last wheel event time: 64900 ms" received
+I	16:57:13.939	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-6C-B1-04-00-A1-FE
+A	16:57:13.939	"Wheel rev: 307564,
+Last wheel event time: 65185 ms" received
+I	16:57:14.165	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-6D-B1-04-00-B8-FF
+A	16:57:14.165	"Wheel rev: 307565,
+Last wheel event time: 65464 ms" received
+I	16:57:14.391	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-6E-B1-04-00-CA-00
+A	16:57:14.391	"Wheel rev: 307566,
+Last wheel event time: 202 ms" received
+I	16:57:14.736	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-6F-B1-04-00-DA-01
+A	16:57:14.736	"Wheel rev: 307567,
+Last wheel event time: 474 ms" received
+I	16:57:14.915	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-6F-B1-04-00-DA-01
+A	16:57:14.915	"Wheel rev: 307567,
+Last wheel event time: 474 ms" received
+I	16:57:15.142	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-70-B1-04-00-E9-02
+A	16:57:15.142	"Wheel rev: 307568,
+Last wheel event time: 745 ms" received
+I	16:57:15.369	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-71-B1-04-00-F6-03
+A	16:57:15.369	"Wheel rev: 307569,
+Last wheel event time: 1014 ms" received
+I	16:57:15.711	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-72-B1-04-00-02-05
+A	16:57:15.711	"Wheel rev: 307570,
+Last wheel event time: 1282 ms" received
+I	16:57:15.890	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-73-B1-04-00-0A-06
+A	16:57:15.890	"Wheel rev: 307571,
+Last wheel event time: 1546 ms" received
+I	16:57:16.117	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-74-B1-04-00-11-07
+A	16:57:16.117	"Wheel rev: 307572,
+Last wheel event time: 1809 ms" received
+I	16:57:16.531	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-75-B1-04-00-19-08
+A	16:57:16.531	"Wheel rev: 307573,
+Last wheel event time: 2073 ms" received
+I	16:57:16.640	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:16.640	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:16.865	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:16.865	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:17.208	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:17.208	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:17.394	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:17.394	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:17.615	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:17.615	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:17.913	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:17.913	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:18.142	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:18.142	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:18.367	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:18.367	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:18.594	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:18.594	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:18.891	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:18.891	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:19.114	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:19.114	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:19.337	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:19.337	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:19.678	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:19.678	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:19.862	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:19.862	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:20.088	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:20.088	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:20.428	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:20.428	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:20.612	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:20.612	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:20.836	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:20.836	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:21.061	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:21.061	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:21.402	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:21.402	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:21.586	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:21.586	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:21.811	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:21.811	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:22.157	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:22.157	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:22.339	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:22.339	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:22.565	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:22.565	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:22.939	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:22.939	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:23.090	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:23.090	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:23.315	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:23.315	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:23.655	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:23.655	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:23.839	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:23.839	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:24.065	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:24.065	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:24.287	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:24.287	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:24.702	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:24.702	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:24.812	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:24.812	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:25.037	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:25.037	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:25.379	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:25.379	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:25.565	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:25.565	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:25.787	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:25.787	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:26.129	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:26.129	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:26.314	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:26.314	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:26.539	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:26.539	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:26.762	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:26.762	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:27.103	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:27.103	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:27.289	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:27.289	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:27.513	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:27.513	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:27.811	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:27.811	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:28.039	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:28.039	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:28.265	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:28.265	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:28.605	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-76-B1-04-00-3E-09
+A	16:57:28.605	"Wheel rev: 307574,
+Last wheel event time: 2366 ms" received
+I	16:57:28.789	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-77-B1-04-00-46-0A
+A	16:57:28.789	"Wheel rev: 307575,
+Last wheel event time: 2630 ms" received
+I	16:57:29.013	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-77-B1-04-00-46-0A
+A	16:57:29.013	"Wheel rev: 307575,
+Last wheel event time: 2630 ms" received
+I	16:57:29.239	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-77-B1-04-00-46-0A
+A	16:57:29.239	"Wheel rev: 307575,
+Last wheel event time: 2630 ms" received
+I	16:57:29.579	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-78-B1-04-00-6B-0B
+A	16:57:29.579	"Wheel rev: 307576,
+Last wheel event time: 2923 ms" received
+I	16:57:29.763	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-78-B1-04-00-6B-0B
+A	16:57:29.763	"Wheel rev: 307576,
+Last wheel event time: 2923 ms" received
+I	16:57:29.988	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-78-B1-04-00-6B-0B
+A	16:57:29.988	"Wheel rev: 307576,
+Last wheel event time: 2923 ms" received
+I	16:57:30.329	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-79-B1-04-00-06-0D
+A	16:57:30.329	"Wheel rev: 307577,
+Last wheel event time: 3334 ms" received
+I	16:57:30.513	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-79-B1-04-00-06-0D
+A	16:57:30.513	"Wheel rev: 307577,
+Last wheel event time: 3334 ms" received
+I	16:57:30.739	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7A-B1-04-00-03-0F
+A	16:57:30.739	"Wheel rev: 307578,
+Last wheel event time: 3843 ms" received
+I	16:57:31.087	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7A-B1-04-00-03-0F
+A	16:57:31.087	"Wheel rev: 307578,
+Last wheel event time: 3843 ms" received
+I	16:57:31.265	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7B-B1-04-00-39-11
+A	16:57:31.265	"Wheel rev: 307579,
+Last wheel event time: 4409 ms" received
+I	16:57:31.490	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7B-B1-04-00-39-11
+A	16:57:31.490	"Wheel rev: 307579,
+Last wheel event time: 4409 ms" received
+I	16:57:31.787	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7C-B1-04-00-6F-13
+A	16:57:31.787	"Wheel rev: 307580,
+Last wheel event time: 4975 ms" received
+I	16:57:32.016	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7C-B1-04-00-6F-13
+A	16:57:32.016	"Wheel rev: 307580,
+Last wheel event time: 4975 ms" received
+I	16:57:32.241	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7D-B1-04-00-A5-15
+A	16:57:32.241	"Wheel rev: 307581,
+Last wheel event time: 5541 ms" received
+I	16:57:32.467	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7D-B1-04-00-A5-15
+A	16:57:32.467	"Wheel rev: 307581,
+Last wheel event time: 5541 ms" received
+I	16:57:32.803	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7E-B1-04-00-B7-17
+A	16:57:32.803	"Wheel rev: 307582,
+Last wheel event time: 6071 ms" received
+I	16:57:32.990	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7E-B1-04-00-B7-17
+A	16:57:32.990	"Wheel rev: 307582,
+Last wheel event time: 6071 ms" received
+I	16:57:33.216	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-7F-B1-04-00-AD-19
+A	16:57:33.216	"Wheel rev: 307583,
+Last wheel event time: 6573 ms" received
+I	16:57:33.558	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-80-B1-04-00-93-1B
+A	16:57:33.558	"Wheel rev: 307584,
+Last wheel event time: 7059 ms" received
+I	16:57:33.741	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-80-B1-04-00-93-1B
+A	16:57:33.741	"Wheel rev: 307584,
+Last wheel event time: 7059 ms" received
+I	16:57:33.965	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-81-B1-04-00-65-1D
+A	16:57:33.965	"Wheel rev: 307585,
+Last wheel event time: 7525 ms" received
+I	16:57:34.309	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-81-B1-04-00-65-1D
+A	16:57:34.309	"Wheel rev: 307585,
+Last wheel event time: 7525 ms" received
+I	16:57:34.491	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-82-B1-04-00-2D-1F
+A	16:57:34.491	"Wheel rev: 307586,
+Last wheel event time: 7981 ms" received
+I	16:57:34.716	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-83-B1-04-00-FE-20
+A	16:57:34.716	"Wheel rev: 307587,
+Last wheel event time: 8446 ms" received
+I	16:57:34.941	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-83-B1-04-00-FE-20
+A	16:57:34.941	"Wheel rev: 307587,
+Last wheel event time: 8446 ms" received
+I	16:57:35.286	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-84-B1-04-00-C7-22
+A	16:57:35.286	"Wheel rev: 307588,
+Last wheel event time: 8903 ms" received
+I	16:57:35.466	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-85-B1-04-00-7B-24
+A	16:57:35.466	"Wheel rev: 307589,
+Last wheel event time: 9339 ms" received
+I	16:57:35.692	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-85-B1-04-00-7B-24
+A	16:57:35.692	"Wheel rev: 307589,
+Last wheel event time: 9339 ms" received
+I	16:57:35.993	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-86-B1-04-00-20-26
+A	16:57:35.993	"Wheel rev: 307590,
+Last wheel event time: 9760 ms" received
+I	16:57:36.221	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-87-B1-04-00-B4-27
+A	16:57:36.221	"Wheel rev: 307591,
+Last wheel event time: 10164 ms" received
+I	16:57:36.441	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-88-B1-04-00-3E-29
+A	16:57:36.441	"Wheel rev: 307592,
+Last wheel event time: 10558 ms" received
+I	16:57:36.785	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-88-B1-04-00-3E-29
+A	16:57:36.785	"Wheel rev: 307592,
+Last wheel event time: 10558 ms" received
+I	16:57:36.964	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-89-B1-04-00-C0-2A
+A	16:57:36.964	"Wheel rev: 307593,
+Last wheel event time: 10944 ms" received
+I	16:57:37.194	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-8A-B1-04-00-37-2C
+A	16:57:37.194	"Wheel rev: 307594,
+Last wheel event time: 11319 ms" received
+I	16:57:37.416	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-8B-B1-04-00-A3-2D
+A	16:57:37.416	"Wheel rev: 307595,
+Last wheel event time: 11683 ms" received
+I	16:57:37.791	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-8B-B1-04-00-A3-2D
+A	16:57:37.791	"Wheel rev: 307595,
+Last wheel event time: 11683 ms" received
+I	16:57:37.941	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-8C-B1-04-00-05-2F
+A	16:57:37.941	"Wheel rev: 307596,
+Last wheel event time: 12037 ms" received
+I	16:57:38.167	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-8D-B1-04-00-5F-30
+A	16:57:38.167	"Wheel rev: 307597,
+Last wheel event time: 12383 ms" received
+I	16:57:38.512	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-8E-B1-04-00-B3-31
+A	16:57:38.512	"Wheel rev: 307598,
+Last wheel event time: 12723 ms" received
+I	16:57:38.690	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-8E-B1-04-00-B3-31
+A	16:57:38.690	"Wheel rev: 307598,
+Last wheel event time: 12723 ms" received
+I	16:57:38.915	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-8F-B1-04-00-06-33
+A	16:57:38.915	"Wheel rev: 307599,
+Last wheel event time: 13062 ms" received
+I	16:57:39.256	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-90-B1-04-00-59-34
+A	16:57:39.256	"Wheel rev: 307600,
+Last wheel event time: 13401 ms" received
+I	16:57:39.442	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-91-B1-04-00-AE-35
+A	16:57:39.442	"Wheel rev: 307601,
+Last wheel event time: 13742 ms" received
+I	16:57:39.667	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-91-B1-04-00-AE-35
+A	16:57:39.667	"Wheel rev: 307601,
+Last wheel event time: 13742 ms" received
+I	16:57:39.963	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-92-B1-04-00-05-37
+A	16:57:39.963	"Wheel rev: 307602,
+Last wheel event time: 14085 ms" received
+I	16:57:40.193	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-93-B1-04-00-5D-38
+A	16:57:40.193	"Wheel rev: 307603,
+Last wheel event time: 14429 ms" received
+I	16:57:40.418	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-93-B1-04-00-5D-38
+A	16:57:40.418	"Wheel rev: 307603,
+Last wheel event time: 14429 ms" received
+I	16:57:40.645	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-94-B1-04-00-B6-39
+A	16:57:40.645	"Wheel rev: 307604,
+Last wheel event time: 14774 ms" received
+I	16:57:40.943	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-95-B1-04-00-0F-3B
+A	16:57:40.943	"Wheel rev: 307605,
+Last wheel event time: 15119 ms" received
+I	16:57:41.168	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-96-B1-04-00-69-3C
+A	16:57:41.168	"Wheel rev: 307606,
+Last wheel event time: 15465 ms" received
+I	16:57:41.396	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-96-B1-04-00-69-3C
+A	16:57:41.396	"Wheel rev: 307606,
+Last wheel event time: 15465 ms" received
+I	16:57:41.731	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-97-B1-04-00-C5-3D
+A	16:57:41.731	"Wheel rev: 307607,
+Last wheel event time: 15813 ms" received
+I	16:57:41.913	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-98-B1-04-00-24-3F
+A	16:57:41.914	"Wheel rev: 307608,
+Last wheel event time: 16164 ms" received
+I	16:57:42.142	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-98-B1-04-00-24-3F
+A	16:57:42.142	"Wheel rev: 307608,
+Last wheel event time: 16164 ms" received
+I	16:57:42.481	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-99-B1-04-00-87-40
+A	16:57:42.481	"Wheel rev: 307609,
+Last wheel event time: 16519 ms" received
+I	16:57:42.671	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9A-B1-04-00-EB-41
+A	16:57:42.671	"Wheel rev: 307610,
+Last wheel event time: 16875 ms" received
+I	16:57:42.889	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9B-B1-04-00-4F-43
+A	16:57:42.889	"Wheel rev: 307611,
+Last wheel event time: 17231 ms" received
+I	16:57:43.116	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9B-B1-04-00-4F-43
+A	16:57:43.116	"Wheel rev: 307611,
+Last wheel event time: 17231 ms" received
+I	16:57:43.466	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9C-B1-04-00-B6-44
+A	16:57:43.466	"Wheel rev: 307612,
+Last wheel event time: 17590 ms" received
+I	16:57:43.640	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9D-B1-04-00-1D-46
+A	16:57:43.640	"Wheel rev: 307613,
+Last wheel event time: 17949 ms" received
+I	16:57:43.865	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9D-B1-04-00-1D-46
+A	16:57:43.865	"Wheel rev: 307613,
+Last wheel event time: 17949 ms" received
+I	16:57:44.239	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9E-B1-04-00-89-47
+A	16:57:44.239	"Wheel rev: 307614,
+Last wheel event time: 18313 ms" received
+I	16:57:44.392	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9E-B1-04-00-89-47
+A	16:57:44.392	"Wheel rev: 307614,
+Last wheel event time: 18313 ms" received
+I	16:57:44.616	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9F-B1-04-00-F0-48
+A	16:57:44.616	"Wheel rev: 307615,
+Last wheel event time: 18672 ms" received
+I	16:57:44.914	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9F-B1-04-00-F0-48
+A	16:57:44.914	"Wheel rev: 307615,
+Last wheel event time: 18672 ms" received
+I	16:57:45.138	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-9F-B1-04-00-F0-48
+A	16:57:45.138	"Wheel rev: 307615,
+Last wheel event time: 18672 ms" received
+I	16:57:45.366	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A0-B1-04-00-5C-4A
+A	16:57:45.366	"Wheel rev: 307616,
+Last wheel event time: 19036 ms" received
+I	16:57:45.706	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A0-B1-04-00-5C-4A
+A	16:57:45.706	"Wheel rev: 307616,
+Last wheel event time: 19036 ms" received
+I	16:57:45.891	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A1-B1-04-00-F8-4B
+A	16:57:45.891	"Wheel rev: 307617,
+Last wheel event time: 19448 ms" received
+I	16:57:46.117	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A1-B1-04-00-F8-4B
+A	16:57:46.117	"Wheel rev: 307617,
+Last wheel event time: 19448 ms" received
+I	16:57:46.341	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A2-B1-04-00-CA-4D
+A	16:57:46.341	"Wheel rev: 307618,
+Last wheel event time: 19914 ms" received
+I	16:57:46.682	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A2-B1-04-00-CA-4D
+A	16:57:46.682	"Wheel rev: 307618,
+Last wheel event time: 19914 ms" received
+I	16:57:46.865	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A3-B1-04-00-BE-4F
+A	16:57:46.865	"Wheel rev: 307619,
+Last wheel event time: 20414 ms" received
+I	16:57:47.093	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A3-B1-04-00-BE-4F
+A	16:57:47.093	"Wheel rev: 307619,
+Last wheel event time: 20414 ms" received
+I	16:57:47.438	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A4-B1-04-00-B2-51
+A	16:57:47.438	"Wheel rev: 307620,
+Last wheel event time: 20914 ms" received
+I	16:57:47.616	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A4-B1-04-00-B2-51
+A	16:57:47.616	"Wheel rev: 307620,
+Last wheel event time: 20914 ms" received
+I	16:57:47.839	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A5-B1-04-00-A5-53
+A	16:57:47.839	"Wheel rev: 307621,
+Last wheel event time: 21413 ms" received
+I	16:57:48.183	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A6-B1-04-00-87-55
+A	16:57:48.183	"Wheel rev: 307622,
+Last wheel event time: 21895 ms" received
+I	16:57:48.478	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A6-B1-04-00-87-55
+A	16:57:48.478	"Wheel rev: 307622,
+Last wheel event time: 21895 ms" received
+I	16:57:48.591	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A7-B1-04-00-4A-57
+A	16:57:48.591	"Wheel rev: 307623,
+Last wheel event time: 22346 ms" received
+I	16:57:48.822	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A7-B1-04-00-4A-57
+A	16:57:48.822	"Wheel rev: 307623,
+Last wheel event time: 22346 ms" received
+I	16:57:49.158	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A8-B1-04-00-FB-58
+A	16:57:49.158	"Wheel rev: 307624,
+Last wheel event time: 22779 ms" received
+I	16:57:49.343	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A9-B1-04-00-BF-5A
+A	16:57:49.343	"Wheel rev: 307625,
+Last wheel event time: 23231 ms" received
+I	16:57:49.565	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A9-B1-04-00-BF-5A
+A	16:57:49.565	"Wheel rev: 307625,
+Last wheel event time: 23231 ms" received
+I	16:57:49.863	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A9-B1-04-00-BF-5A
+A	16:57:49.863	"Wheel rev: 307625,
+Last wheel event time: 23231 ms" received
+I	16:57:50.213	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A9-B1-04-00-BF-5A
+A	16:57:50.213	"Wheel rev: 307625,
+Last wheel event time: 23231 ms" received
+I	16:57:50.316	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A9-B1-04-00-BF-5A
+A	16:57:50.316	"Wheel rev: 307625,
+Last wheel event time: 23231 ms" received
+I	16:57:50.732	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-A9-B1-04-00-BF-5A
+A	16:57:50.732	"Wheel rev: 307625,
+Last wheel event time: 23231 ms" received
+I	16:57:50.841	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AA-B1-04-00-5D-5C
+A	16:57:50.841	"Wheel rev: 307626,
+Last wheel event time: 23645 ms" received
+I	16:57:51.066	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AA-B1-04-00-5D-5C
+A	16:57:51.066	"Wheel rev: 307626,
+Last wheel event time: 23645 ms" received
+I	16:57:51.294	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AB-B1-04-00-FA-5D
+A	16:57:51.294	"Wheel rev: 307627,
+Last wheel event time: 24058 ms" received
+I	16:57:51.633	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AB-B1-04-00-FA-5D
+A	16:57:51.633	"Wheel rev: 307627,
+Last wheel event time: 24058 ms" received
+I	16:57:51.815	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AC-B1-04-00-A8-5F
+A	16:57:51.815	"Wheel rev: 307628,
+Last wheel event time: 24488 ms" received
+I	16:57:52.043	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AC-B1-04-00-A8-5F
+A	16:57:52.043	"Wheel rev: 307628,
+Last wheel event time: 24488 ms" received
+I	16:57:52.461	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AD-B1-04-00-54-61
+A	16:57:52.461	"Wheel rev: 307629,
+Last wheel event time: 24916 ms" received
+I	16:57:52.643	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AE-B1-04-00-03-63
+A	16:57:52.643	"Wheel rev: 307630,
+Last wheel event time: 25347 ms" received
+I	16:57:52.788	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AE-B1-04-00-03-63
+A	16:57:52.788	"Wheel rev: 307630,
+Last wheel event time: 25347 ms" received
+I	16:57:53.136	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AF-B1-04-00-B6-64
+A	16:57:53.136	"Wheel rev: 307631,
+Last wheel event time: 25782 ms" received
+I	16:57:53.318	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-AF-B1-04-00-B6-64
+A	16:57:53.318	"Wheel rev: 307631,
+Last wheel event time: 25782 ms" received
+I	16:57:53.543	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B0-B1-04-00-6C-66
+A	16:57:53.543	"Wheel rev: 307632,
+Last wheel event time: 26220 ms" received
+I	16:57:53.840	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B1-B1-04-00-14-68
+A	16:57:53.840	"Wheel rev: 307633,
+Last wheel event time: 26644 ms" received
+I	16:57:54.069	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B1-B1-04-00-14-68
+A	16:57:54.069	"Wheel rev: 307633,
+Last wheel event time: 26644 ms" received
+I	16:57:54.290	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B1-B1-04-00-14-68
+A	16:57:54.290	"Wheel rev: 307633,
+Last wheel event time: 26644 ms" received
+I	16:57:54.520	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B2-B1-04-00-BC-69
+A	16:57:54.520	"Wheel rev: 307634,
+Last wheel event time: 27068 ms" received
+I	16:57:54.892	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B2-B1-04-00-BC-69
+A	16:57:54.893	"Wheel rev: 307634,
+Last wheel event time: 27068 ms" received
+I	16:57:55.041	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B3-B1-04-00-64-6B
+A	16:57:55.041	"Wheel rev: 307635,
+Last wheel event time: 27492 ms" received
+I	16:57:55.267	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B3-B1-04-00-64-6B
+A	16:57:55.268	"Wheel rev: 307635,
+Last wheel event time: 27492 ms" received
+I	16:57:55.612	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B4-B1-04-00-34-6D
+A	16:57:55.612	"Wheel rev: 307636,
+Last wheel event time: 27956 ms" received
+I	16:57:55.789	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B4-B1-04-00-34-6D
+A	16:57:55.789	"Wheel rev: 307636,
+Last wheel event time: 27956 ms" received
+I	16:57:56.017	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B4-B1-04-00-34-6D
+A	16:57:56.017	"Wheel rev: 307636,
+Last wheel event time: 27956 ms" received
+I	16:57:56.361	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B5-B1-04-00-31-6F
+A	16:57:56.361	"Wheel rev: 307637,
+Last wheel event time: 28465 ms" received
+I	16:57:56.544	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B5-B1-04-00-31-6F
+A	16:57:56.544	"Wheel rev: 307637,
+Last wheel event time: 28465 ms" received
+I	16:57:56.840	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B6-B1-04-00-50-71
+A	16:57:56.840	"Wheel rev: 307638,
+Last wheel event time: 29008 ms" received
+I	16:57:56.991	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B6-B1-04-00-50-71
+A	16:57:56.991	"Wheel rev: 307638,
+Last wheel event time: 29008 ms" received
+I	16:57:57.333	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B7-B1-04-00-70-73
+A	16:57:57.333	"Wheel rev: 307639,
+Last wheel event time: 29552 ms" received
+I	16:57:57.521	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B8-B1-04-00-90-75
+A	16:57:57.521	"Wheel rev: 307640,
+Last wheel event time: 30096 ms" received
+I	16:57:57.742	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B8-B1-04-00-90-75
+A	16:57:57.742	"Wheel rev: 307640,
+Last wheel event time: 30096 ms" received
+I	16:57:58.082	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B9-B1-04-00-97-77
+A	16:57:58.082	"Wheel rev: 307641,
+Last wheel event time: 30615 ms" received
+I	16:57:58.269	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-B9-B1-04-00-97-77
+A	16:57:58.269	"Wheel rev: 307641,
+Last wheel event time: 30615 ms" received
+I	16:57:58.491	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BA-B1-04-00-78-79
+A	16:57:58.491	"Wheel rev: 307642,
+Last wheel event time: 31096 ms" received
+I	16:57:58.832	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BB-B1-04-00-38-7B
+A	16:57:58.832	"Wheel rev: 307643,
+Last wheel event time: 31544 ms" received
+I	16:57:59.021	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BB-B1-04-00-38-7B
+A	16:57:59.021	"Wheel rev: 307643,
+Last wheel event time: 31544 ms" received
+I	16:57:59.241	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BC-B1-04-00-EB-7C
+A	16:57:59.241	"Wheel rev: 307644,
+Last wheel event time: 31979 ms" received
+I	16:57:59.468	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BC-B1-04-00-EB-7C
+A	16:57:59.468	"Wheel rev: 307644,
+Last wheel event time: 31979 ms" received
+I	16:57:59.768	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BD-B1-04-00-AB-7E
+A	16:57:59.768	"Wheel rev: 307645,
+Last wheel event time: 32427 ms" received
+I	16:57:59.993	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BE-B1-04-00-5E-80
+A	16:57:59.993	"Wheel rev: 307646,
+Last wheel event time: 32862 ms" received
+I	16:58:00.218	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BE-B1-04-00-5E-80
+A	16:58:00.218	"Wheel rev: 307646,
+Last wheel event time: 32862 ms" received
+I	16:58:00.515	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BE-B1-04-00-5E-80
+A	16:58:00.515	"Wheel rev: 307646,
+Last wheel event time: 32862 ms" received
+I	16:58:00.739	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BE-B1-04-00-5E-80
+A	16:58:00.739	"Wheel rev: 307646,
+Last wheel event time: 32862 ms" received
+I	16:58:00.966	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BE-B1-04-00-5E-80
+A	16:58:00.966	"Wheel rev: 307646,
+Last wheel event time: 32862 ms" received
+I	16:58:01.312	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BE-B1-04-00-5E-80
+A	16:58:01.312	"Wheel rev: 307646,
+Last wheel event time: 32862 ms" received
+I	16:58:01.495	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BF-B1-04-00-F9-81
+A	16:58:01.495	"Wheel rev: 307647,
+Last wheel event time: 33273 ms" received
+I	16:58:01.717	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BF-B1-04-00-F9-81
+A	16:58:01.717	"Wheel rev: 307647,
+Last wheel event time: 33273 ms" received
+I	16:58:02.129	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-BF-B1-04-00-F9-81
+A	16:58:02.129	"Wheel rev: 307647,
+Last wheel event time: 33273 ms" received
+I	16:58:02.242	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C0-B1-04-00-9E-83
+A	16:58:02.242	"Wheel rev: 307648,
+Last wheel event time: 33694 ms" received
+I	16:58:02.467	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C0-B1-04-00-9E-83
+A	16:58:02.467	"Wheel rev: 307648,
+Last wheel event time: 33694 ms" received
+I	16:58:02.695	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C0-B1-04-00-9E-83
+A	16:58:02.695	"Wheel rev: 307648,
+Last wheel event time: 33694 ms" received
+I	16:58:02.995	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C1-B1-04-00-A3-85
+A	16:58:02.995	"Wheel rev: 307649,
+Last wheel event time: 34211 ms" received
+I	16:58:03.219	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C1-B1-04-00-A3-85
+A	16:58:03.219	"Wheel rev: 307649,
+Last wheel event time: 34211 ms" received
+I	16:58:03.441	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C2-B1-04-00-E3-87
+A	16:58:03.441	"Wheel rev: 307650,
+Last wheel event time: 34787 ms" received
+I	16:58:03.788	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C2-B1-04-00-E3-87
+A	16:58:03.788	"Wheel rev: 307650,
+Last wheel event time: 34787 ms" received
+I	16:58:03.964	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C2-B1-04-00-E3-87
+A	16:58:03.964	"Wheel rev: 307650,
+Last wheel event time: 34787 ms" received
+I	16:58:04.192	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C3-B1-04-00-7C-8A
+A	16:58:04.192	"Wheel rev: 307651,
+Last wheel event time: 35452 ms" received
+I	16:58:04.537	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C3-B1-04-00-7C-8A
+A	16:58:04.537	"Wheel rev: 307651,
+Last wheel event time: 35452 ms" received
+I	16:58:04.718	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C4-B1-04-00-1A-8D
+A	16:58:04.718	"Wheel rev: 307652,
+Last wheel event time: 36122 ms" received
+I	16:58:04.942	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C4-B1-04-00-1A-8D
+A	16:58:04.942	"Wheel rev: 307652,
+Last wheel event time: 36122 ms" received
+I	16:58:05.169	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C5-B1-04-00-B8-8F
+A	16:58:05.169	"Wheel rev: 307653,
+Last wheel event time: 36792 ms" received
+I	16:58:05.507	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C5-B1-04-00-B8-8F
+A	16:58:05.507	"Wheel rev: 307653,
+Last wheel event time: 36792 ms" received
+I	16:58:05.692	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C5-B1-04-00-B8-8F
+A	16:58:05.692	"Wheel rev: 307653,
+Last wheel event time: 36792 ms" received
+I	16:58:05.917	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C6-B1-04-00-2F-92
+A	16:58:05.917	"Wheel rev: 307654,
+Last wheel event time: 37423 ms" received
+I	16:58:06.261	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C6-B1-04-00-2F-92
+A	16:58:06.261	"Wheel rev: 307654,
+Last wheel event time: 37423 ms" received
+I	16:58:06.443	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C7-B1-04-00-8D-94
+A	16:58:06.443	"Wheel rev: 307655,
+Last wheel event time: 38029 ms" received
+I	16:58:06.668	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C7-B1-04-00-8D-94
+A	16:58:06.668	"Wheel rev: 307655,
+Last wheel event time: 38029 ms" received
+I	16:58:06.968	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C8-B1-04-00-E0-96
+A	16:58:06.968	"Wheel rev: 307656,
+Last wheel event time: 38624 ms" received
+I	16:58:07.193	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C8-B1-04-00-E0-96
+A	16:58:07.193	"Wheel rev: 307656,
+Last wheel event time: 38624 ms" received
+I	16:58:07.418	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C9-B1-04-00-25-99
+A	16:58:07.418	"Wheel rev: 307657,
+Last wheel event time: 39205 ms" received
+I	16:58:07.758	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-C9-B1-04-00-25-99
+A	16:58:07.758	"Wheel rev: 307657,
+Last wheel event time: 39205 ms" received
+I	16:58:07.946	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CA-B1-04-00-52-9B
+A	16:58:07.946	"Wheel rev: 307658,
+Last wheel event time: 39762 ms" received
+I	16:58:08.165	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CA-B1-04-00-52-9B
+A	16:58:08.165	"Wheel rev: 307658,
+Last wheel event time: 39762 ms" received
+I	16:58:08.394	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:08.394	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:08.804	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:08.804	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:08.916	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:08.916	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:09.142	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:09.142	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:09.487	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:09.487	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:09.668	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:09.668	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:09.888	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:09.888	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:10.233	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:10.233	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:10.417	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:10.417	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:10.643	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:10.643	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:10.864	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:10.864	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:11.208	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:11.208	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:11.508	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:11.508	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:11.616	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:11.616	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:11.993	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:11.993	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:12.142	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:12.142	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:12.367	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:12.367	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:12.708	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:12.708	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:12.892	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:12.892	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:13.117	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:13.117	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:13.342	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:13.342	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:13.682	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:13.682	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:13.863	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:13.863	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:14.089	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:14.089	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:14.428	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:14.428	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:14.616	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:14.616	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:14.839	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:14.839	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:15.181	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:15.182	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:15.366	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:15.366	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:15.592	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:15.592	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:15.933	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:15.933	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:16.230	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:16.230	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:16.339	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:16.339	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:16.565	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:16.565	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:16.864	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:16.864	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:17.090	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:17.090	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:17.317	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:17.317	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:17.616	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:17.616	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:17.838	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:17.838	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:18.064	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:18.064	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:18.403	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:18.403	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:18.589	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:18.589	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:18.814	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:18.814	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+I	16:58:19.040	Notification received from 00002a5b-0000-1000-8000-00805f9b34fb, value: (0x) 01-CB-B1-04-00-60-9D
+A	16:58:19.040	"Wheel rev: 307659,
+Last wheel event time: 40288 ms" received
+V	16:58:19.208	Disabling notifications for 00002a5b-0000-1000-8000-00805f9b34fb
+D	16:58:19.208	gatt.setCharacteristicNotification(00002a5b-0000-1000-8000-00805f9b34fb, false)
+D	16:58:19.212	gatt.writeDescriptor(00002902-0000-1000-8000-00805f9b34fb, value=0x0000)
+I	16:58:19.338	Data written to descr. 00002902-0000-1000-8000-00805f9b34fb, value: (0x) 00-00
+A	16:58:19.338	"Notifications and indications disabled" sent
+V	16:58:19.341	Notifications and indications disabled for 00002a5b-0000-1000-8000-00805f9b34fb
