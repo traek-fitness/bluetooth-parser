@@ -1,4 +1,30 @@
+from dataclasses import dataclass
+import ssl
 import rich
+import struct
+import paho.mqtt.client as mqtt
+
+
+@dataclass
+class SpeedData:
+    speed: float
+
+
+@dataclass
+class CadenceData:
+    cadence: float
+
+
+def serialize_speed_data(speed_data: SpeedData) -> bytes:
+    data_bytes = struct.pack(">B", 4)
+    data_bytes += struct.pack(">f", speed_data.speed)
+    return data_bytes
+
+
+def serialize_cadence_data(cadence_data: CadenceData) -> bytes:
+    data_bytes = struct.pack(">B", 5)
+    data_bytes += struct.pack(">f", cadence_data.cadence)
+    return data_bytes
 
 
 class CSCSensor:
@@ -22,6 +48,27 @@ class CSCSensor:
 
         self.crank_repeat_count = 0
         self.crank_repeat_limit = 3
+
+        self.connect()
+
+    def connect(self) -> None:
+        def on_connect(client, userdata, flags, reason_code, properties):
+            rich.print(
+                f"[bold blue]Connected to MQTT broker with code {reason_code}[/bold blue]"
+            )
+
+        username = "084bf859-2206-4cc6-ba82-98b4a1b898c4"
+        password = "$argon2id$v=19$m=65536,t=3,p=4$kuXO8SAFS6mO27ArtliYXA$yQHlGSi6zQsDKfeJUtefrNMIhPV3ge8NYuQopimNp14"
+
+        self.mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
+        self.mqtt_client.username_pw_set(username, password)
+        self.mqtt_client.on_connect = on_connect
+
+        self.mqtt_client.tls_set(cert_reqs=ssl.CERT_NONE)
+        self.mqtt_client.tls_insecure_set(True)
+
+        self.mqtt_client.connect("mqtt.traek.fit", 8883, 60)
+        self.mqtt_client.loop_start()
 
     def parse(self, data: bytearray) -> None:
         flags = data[0]
@@ -172,6 +219,10 @@ class CSCSensor:
 
     def on_speed_update(self, speed: float):
         rich.print(f"Speed: {speed} km/h")
+        payload = serialize_speed_data(SpeedData(speed=speed))
+        self.mqtt_client.publish("rooms/26", payload, qos=2)
 
-    def on_cadence_update(self, cadence: int):
+    def on_cadence_update(self, cadence: float):
         rich.print(f"Cadence: {cadence} rpm")
+        payload = serialize_cadence_data(CadenceData(cadence=cadence))
+        self.mqtt_client.publish("rooms/26", payload, qos=2)
