@@ -1,4 +1,5 @@
 import json
+import threading
 import time
 from typing import Callable
 
@@ -35,5 +36,18 @@ class Processor:
 if __name__ == "__main__":
     cscSensor = CSCSensor()
 
-    processor = Processor("data/output/wheel/1.json")
-    processor.schedule_tasks(cscSensor.parse)
+    wheel_processor = Processor("data/output/wheel/1.json")
+    crank_processor = Processor("data/output/crank/1.json")
+
+    wheel_thread = threading.Thread(
+        target=wheel_processor.schedule_tasks, args=(cscSensor.parse,)
+    )
+    crank_thread = threading.Thread(
+        target=crank_processor.schedule_tasks, args=(cscSensor.parse,)
+    )
+
+    wheel_thread.start()
+    crank_thread.start()
+
+    wheel_thread.join()
+    crank_thread.join()
